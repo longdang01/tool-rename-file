@@ -1,0 +1,13 @@
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\bin\Debug\netcoreapp3.1\ToolRenameFile.exe
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\bin\Debug\netcoreapp3.1\ToolRenameFile.deps.json
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\bin\Debug\netcoreapp3.1\ToolRenameFile.runtimeconfig.json
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\bin\Debug\netcoreapp3.1\ToolRenameFile.runtimeconfig.dev.json
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\bin\Debug\netcoreapp3.1\ToolRenameFile.dll
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\bin\Debug\netcoreapp3.1\ToolRenameFile.pdb
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\obj\Debug\netcoreapp3.1\ToolRenameFile.csprojAssemblyReference.cache
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\obj\Debug\netcoreapp3.1\ToolRenameFile.csproj.CoreCompileInputs.cache
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\obj\Debug\netcoreapp3.1\ToolRenameFile.AssemblyInfoInputs.cache
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\obj\Debug\netcoreapp3.1\ToolRenameFile.AssemblyInfo.cs
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\obj\Debug\netcoreapp3.1\ToolRenameFile.dll
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\obj\Debug\netcoreapp3.1\ToolRenameFile.pdb
+E:\Đặng Hoàng Long\ToolC#\ToolRenameFile\ToolRenameFile\obj\Debug\netcoreapp3.1\ToolRenameFile.genruntimeconfig.cache
